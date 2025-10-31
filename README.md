@@ -49,7 +49,6 @@ The goal of this repo is to:
 | Striver A2Z     | 450+           | 55     | XX          | 🔄     |
 | Random Practice | ∞              | 10     | -           | 🧩     |
 
-(*You can update these numbers as you go.*)
 
 ---
 
@@ -91,6 +90,4 @@ Thanks to:
 * **Striver (Raj Vikramaditya)** for the A2Z roadmap
 * **Open-source DSA communities** that make learning collaborative and fun
 
----
 
-Would you like me to **add GitHub-style badges** (like “Language”, “Repo Size”, “Last Commit”, etc.) or **progress bars** for NeetCode and Striver sections? It would make your README look even more professional.
